@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(180, 71, 16);
+}
+#main{
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+
+input{
+    margin-top: 10px;
+    padding-left: 15px;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(141, 184, 170);
+    opacity: 10;
+    color: aliceblue;
+    width: 250px;
+    height: 30px;
+}
+
+button{
+    background-color: aquamarine;
+    outline: none;
+    margin-top: 5px;
+
+}
+#savetab{
+    margin-top: 5px;
+}
+
+#btn{
+    margin-top: 20px;
+}
+
+
+ul, li, a{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 100px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+
